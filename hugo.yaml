@@ -31,7 +31,7 @@ menu:
 
 params:
   description: "巴福步林-bufbrane"
-  footer: "[bufbrane.cn](https://bufbrane.cn) &copy; {Year} by [bufbrane](mailto:bufbrane@bufbrane.com) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)"
+  footer: "[bufbrane.cn](https://bufbrane.cn) &copy; 2025-{Year} by [bufbrane](mailto:bufbrane@bufbrane.com) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)"
 
 markup:
   highlight:
